@@ -30,6 +30,7 @@ Das Englischquiz besteht aus insgesamt 13 Screens, wobei es einen Startscreen, w
 Zur Vereinfachung und Verkürzung unseres Codes haben wir einige allgemeine Funktionen erstellt, um bei gewissen Ereignissen, bestimmte Reaktionen hervorzurufen. Dabei gibt es eine für richtige Antworten:
 
 function right() {
+
   playSound("sound://category_achievements/lighthearted_bonus_objective_1.mp3", false);         bestimmt den Sound, der bei richtigen Antworten gespielt wird
   Anzahl = Anzahl + 1;                                                                          addiert die Punkte, bei richtiger Antwort
   setText("Punktetafel", "Punkte = " + Anzahl);                                                 zeigt den neuen Punktestand an
