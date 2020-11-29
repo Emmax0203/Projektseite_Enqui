@@ -58,3 +58,5 @@ function endGame() {
 ## Buttons<a name="Buttons"></a>
 
 Bei unserem Quiz haben wir Buttons verwendet, mit welchen man zu dem nächsten Screen gelangt und Events, wie Punkte und Sounds auslöst. 
+
+
