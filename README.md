@@ -57,6 +57,8 @@ function endGame() {
   }
 }
 
+Zusätzlich gibt es ein funktionierendes Scoreboard, das durch die Variable "Anzahl" festgelegt und verändert wird. Dieses taucht auf allen Screens auf und zeigt den momentanen Punktestand an. 
+
 ## Buttons<a name="Buttons"></a>
 
 Bei unserem Quiz haben wir Buttons verwendet, mit welchen man zu dem nächsten Screen gelangt und Events, wie Punkte und Sounds auslöst. Dabei gibt es die Buttons A, B und C, denen dann diese verschiedenen Funktionen (wrong, right) zugeordnet sind. Des Weiteren haben wir eine interaktive Seite (Startseite) erstellt, bei der man durch klicken auf einen beliebigen Punkt der Seite auf den ersten Screen gelangt.  
@@ -64,3 +66,7 @@ Bei unserem Quiz haben wir Buttons verwendet, mit welchen man zu dem nächsten S
 ## Inhalt des Quizzes<a name="Inhalt des Quizzes"></a>
 
 Das Thema unseres Quizzes ist Englisch für Anfänger. Somit sind die Fragen einfach gehalten und gehen nur auf Grundkenntnisse ein. Hierbei gibt es verschiedene Fragentypen: Vokabellernen durch Verknüpfung von Bild und englischem Wort, Geräusch und Wort und englischem Wort mit Übersetzung. Des Weiteren gibt es Grammatikfragen, wobei deutsche Sätze ins Englische übersetzt werden sollen. Diese Fragen haben wir uns alle selbst ausgedacht. Außerdem ist das Quiz ein multiple-choice Quiz mit jeweils drei Antwortmöglichkeiten (A, B, C).  
+
+## Spielende<a name="Spielende"></a>
+Das Spiel endet, wenn der Spieler alle zehn Fragen des Quizzes beantwortet hat, unabhängig von dem derzeitigen Punktestand. Durch den Punktestand wird lediglich entschieden, auf welchen der beiden Endscreens der Spieler am Ende weitergeleitet wird. 
+Dazu gibt es eine endGame-Funktion, die mithilfe der if-else-Funktion von AppLab bestimmt, welcher der beiden Screens am Ende des Quizzes angezeigt werden soll. In dieser ist festgelegt, dass, wenn (if) die Anzahl unter sechs Punkten ist, der negative Endscreen angezeigt wird und ansonsten (else) der positive Screen angezeigt wird. 
