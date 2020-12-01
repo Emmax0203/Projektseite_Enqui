@@ -14,6 +14,10 @@
 
 [6. Inhalt des Quiz](#Inhalt)
 
+[7. Spielende](#Spielende)
+
+[5. Schlusswort](#Schlusswort)
+
 ## Einleitung<a name="Einleitung"></a>
 
 Im ersten Halbjahr des 12. Jahrgangs haben wir im Rahmen des Informatikunterrichts das Englischquiz "Enqui" erstellt. Dazu haben wir die Seite code.org und dessen Funktion AppLab verwendet, da diese für Anfänger im Programmieren ausgelegt ist. Da dieses Programm mit Bausteinen arbeitet, bot es sich für uns an, da wir keinerlei Vorkenntnisse in Informatik hatten. Nachdem wir uns die Einführungsvideos zu AppLab angesehen haben, waren wir froh, ein solches Anfängerprogramm gefunden zu haben, mit welchem das Projekt und die Anforderungen an dieses erfüllbar wirkte. 
@@ -22,7 +26,7 @@ Dabei haben wir uns dazu entschieden, ein Quiz zu machen, da dies mithilfe der F
 
 ## Spielidee<a name="Spielidee"></a>
 
-"Enqui" ist ein Englischquiz für Anfänger, welches aus zehn verschiedenen Fragen besteht. Dabei gibt es unterschiedliche Fragentypen: Vokabel- und Grammatikfragen und Fragen anhand von Bildern und Geräuschen. Dabei gibt es ein Punktesystem, welches auch in den Minusbereich reicht und für jede Frage einen (Minus)Punkt bringt. Das Quiz ist gewonnen, wenn man von den zehn Fragen mindestens sechs richtig beantwortet, also sechs Punkte erreicht hat. 
+"Enqui" ist ein Englischquiz für Anfänger, welches aus zehn verschiedenen Fragen besteht. Es gibt unterschiedliche Fragentypen: Vokabel- und Grammatikfragen und Fragen anhand von Bildern und Geräuschen. Dabei gibt es ein Punktesystem, welches auch in den Minusbereich reicht und für jede Frage einen (Minus)Punkt bringt. Das Quiz ist gewonnen, wenn man von den zehn Fragen mindestens sechs richtig beantwortet, also sechs Punkte erreicht hat. 
 
 ## Screens<a name="Screens"></a>
 
@@ -68,8 +72,8 @@ Bei unserem Quiz haben wir Buttons verwendet, mit welchen man zu dem nächsten S
 Das Thema unseres Quiz ist Englisch für Anfänger. Somit sind die Fragen einfach gehalten und gehen nur auf Grundkenntnisse ein. Hierbei gibt es verschiedene Fragentypen: Vokabellernen durch Verknüpfung von Bild und englischem Wort, Geräusch und Wort und englischem Wort mit Übersetzung. Des Weiteren gibt es Grammatikfragen, wobei deutsche Sätze ins Englische übersetzt werden sollen. Diese Fragen haben wir uns alle selbst ausgedacht. Außerdem ist das Quiz ein multiple-choice Quiz mit jeweils drei Antwortmöglichkeiten (A, B, C).  
 
 ## Spielende<a name="Spielende"></a>
-Das Spiel endet, wenn der Spieler alle zehn Fragen des Quizzes beantwortet hat, unabhängig von dem derzeitigen Punktestand. Durch den Punktestand wird lediglich entschieden, auf welchen der beiden Endscreens der Spieler am Ende weitergeleitet wird. 
-Dazu gibt es eine endGame-Funktion, die mithilfe der if-else-Schleife von AppLab bestimmt, welcher der beiden Screens am Ende des Quizzes angezeigt werden soll. In dieser ist festgelegt, dass, wenn (if) die Anzahl unter sechs Punkten ist, der negative Endscreen angezeigt wird und ansonsten (else) der positive Screen angezeigt wird. Auf den letzten beiden Screens (Endscreens) kann man außerdem das Quiz restarten und von vorne beginnen. 
+Das Spiel endet, wenn der Spieler alle zehn Fragen des Quiz beantwortet hat, unabhängig von dem derzeitigen Punktestand. Durch den Punktestand wird lediglich entschieden, auf welchen der beiden Endscreens der Spieler am Ende weitergeleitet wird. 
+Dazu gibt es eine endGame-Funktion, die mithilfe der if-else-Schleife von AppLab bestimmt, welcher der beiden Screens am Ende des Quiz angezeigt werden soll. In dieser ist festgelegt, dass, wenn (if) die Anzahl unter sechs Punkten ist, der negative Endscreen angezeigt wird und ansonsten (else) der positive Screen angezeigt wird. Auf den letzten beiden Screens (Endscreens) kann man außerdem das Quiz restarten und von vorne beginnen. 
 
 ## Schlusswort<a name="Schlusswort"></a>
 Schlussendlich sind wor mit unserem Projekt sehr zufrieden, da wir bis vor einigen Monaten noch nie programmiert haben und keinerlei Informatikkenntnisse besaßen. Auch wenn es einige Schwierigkeiten gab, habne wir so gut es geht Lösungen gefunden und unser Quiz Schriit füt Schritt weiter aufbessern können. Die Kenntnisse haben wir uns größtenteils über Videos und Eigenarbeit, sowie viel Probieren angeeignet, weshalb es für uns von besonderer Bedeutung ist. Dabei hatten wir vor allem Probleme mit dem Scoreboard und mit der Vereinfachung unseres Codes, wofür aber zum Glück am Ende Lösungen finden konnten, mit denen wir auch zufrieden sind. 
