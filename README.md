@@ -12,7 +12,7 @@
 
 [5. Buttons](#Buttons)
 
-[6. Inhalt des Quiz](#Inhalt des Quiz)
+[6. Inhalt des Quiz](#Inhalt)
 
 ## Einleitung<a name="Einleitung"></a>
 
@@ -63,7 +63,7 @@ Zusätzlich gibt es ein funktionierendes Scoreboard, das durch die Variable "Anz
 
 Bei unserem Quiz haben wir Buttons verwendet, mit welchen man zu dem nächsten Screen gelangt und Events, wie Punkte und Sounds auslöst. Dabei gibt es die Buttons A, B und C, denen dann diese verschiedenen Funktionen (wrong, right) zugeordnet sind. Des Weiteren haben wir eine interaktive Seite (Startseite) erstellt, bei der man durch klicken auf einen beliebigen Punkt der Seite auf den ersten Screen gelangt.  
 
-## Inhalt des Quiz<a name="Inhalt des Quiz"></a>
+## Inhalt des Quiz<a name="Inhalt"></a>
 
 Das Thema unseres Quiz ist Englisch für Anfänger. Somit sind die Fragen einfach gehalten und gehen nur auf Grundkenntnisse ein. Hierbei gibt es verschiedene Fragentypen: Vokabellernen durch Verknüpfung von Bild und englischem Wort, Geräusch und Wort und englischem Wort mit Übersetzung. Des Weiteren gibt es Grammatikfragen, wobei deutsche Sätze ins Englische übersetzt werden sollen. Diese Fragen haben wir uns alle selbst ausgedacht. Außerdem ist das Quiz ein multiple-choice Quiz mit jeweils drei Antwortmöglichkeiten (A, B, C).  
 
