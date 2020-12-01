@@ -12,6 +12,8 @@
 
 [5. Buttons](#Buttons)
 
+[6. Inhalt des Quizzes](#Inhalt des Quizzes)
+
 ## Einleitung<a name="Einleitung"></a>
 
 Im ersten Halbjahr des 12. Jahrgangs haben wir im Rahmen des Informatikunterrichts das Englischquiz "Enqui" erstellt. Dazu haben wir die Seite code.org und dessen Funktion AppLab verwendet, da diese für Anfänger im Programmieren ausgelegt ist. Da dieses Programm mit Bausteinen arbeitet, bot es sich für uns an, da wir keinerlei Vorkenntnisse in Informatik hatten. Nachdem wir uns die Einführungsvideos zu AppLab angesehen haben, waren wir froh, ein solches Anfängerprogramm gefunden zu haben, mit welchem das Projekt und die Anforderungen an dieses erfüllbar wirkte. 
@@ -58,3 +60,7 @@ function endGame() {
 ## Buttons<a name="Buttons"></a>
 
 Bei unserem Quiz haben wir Buttons verwendet, mit welchen man zu dem nächsten Screen gelangt und Events, wie Punkte und Sounds auslöst. Dabei gibt es die Buttons A, B und C, denen dann diese verschiedenen Funktionen (wrong, right) zugeordnet sind. Des Weiteren haben wir eine interaktive Seite (Startseite) erstellt, bei der man durch klicken auf einen beliebigen Punkt der Seite auf den ersten Screen gelangt.  
+
+## Inhalt des Quizzes<a name="Inhalt des Quizzes"></a>
+
+Das Thema unseres Quizzes ist Englisch für Anfänger. Somit sind die Fragen einfach gehalten und gehen nur auf Grundkenntnisse ein. Hierbei gibt es verschiedene Fragentypen: Vokabellernen durch Verknüpfung von Bild und englischem Wort, Geräusch und Wort und englischem Wort mit Übersetzung. Des Weiteren gibt es Grammatikfragen, wobei deutsche Sätze ins Englische übersetzt werden sollen. Diese Fragen haben wir uns alle selbst ausgedacht. Außerdem ist das Quiz ein multiple-choice Quiz mit jeweils drei Antwortmöglichkeiten (A, B, C).  
