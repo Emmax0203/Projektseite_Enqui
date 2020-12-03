@@ -53,6 +53,9 @@ https://github.com/Emmax0203/Projektseite---Enqui/blob/main/right.png
 
 Eine für falsche Antworten:
 
+https://github.com/Emmax0203/Projektseite---Enqui/blob/main/wrong.png
+
+Und eine Endfunktion (siehe Spielende)
 
 Zusätzlich gibt es ein funktionierendes Scoreboard, das durch die Variable "Anzahl" festgelegt und verändert wird. Dieses taucht auf allen Screens auf und zeigt den momentanen Punktestand an. 
 
