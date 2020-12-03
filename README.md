@@ -34,6 +34,8 @@ Für die Screens haben wir die Funktion der Screengestaltung bei AppLab genutzt,
 
 Das Englischquiz besteht aus insgesamt 13 Screens, wobei es einen Startscreen, welcher beim Öffnen des Quiz gezeigt wird, zwei Endscreens, wovon einer beim Erreichen der Mindespunktzahl (bei einem Gewinn) und der andere beim Nichterreichen (bei einer Niederlage) gezeigt wird und zehn Fragescreens, auf welchem sich die unterschiedlichen Fragen befinden, gibt.  
 
+https://github.com/Emmax0203/Projektseite---Enqui/blob/main/Informatik.png
+
 ## Funktionen<a name="Funktionen"></a>
 Zur Vereinfachung und Verkürzung unseres Codes haben wir einige allgemeine Funktionen erstellt, um bei gewissen Ereignissen, bestimmte Reaktionen hervorzurufen. Dabei gibt es eine für richtige Antworten:
 
