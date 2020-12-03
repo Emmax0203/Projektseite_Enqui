@@ -65,7 +65,9 @@ Zusätzlich gibt es ein funktionierendes Scoreboard, das durch die Variable "Anz
 
 ## Funktionen für die Fragen<a name="Fragen"></a>
 
-Beispiel Fragentyp1: 
+Beispiel Fragentyp1: https://github.com/Emmax0203/Projektseite---Enqui/blob/main/Frage1.png
+
+Beispiel Fragentyp3: 
 
 ## Buttons<a name="Buttons"></a>
 
