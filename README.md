@@ -39,6 +39,7 @@ https://github.com/Emmax0203/Projektseite---Enqui/blob/main/Informatik1.png
 https://github.com/Emmax0203/Projektseite---Enqui/blob/main/Informatik2.png
 https://github.com/Emmax0203/Projektseite---Enqui/blob/main/Informatik3.png
 https://github.com/Emmax0203/Projektseite---Enqui/blob/main/Informatik4.png
+https://github.com/Emmax0203/Projektseite---Enqui/blob/main/Informatik5.png
 
 ## Funktionen<a name="Funktionen"></a>
 Zur Vereinfachung und Verkürzung unseres Codes haben wir einige allgemeine Funktionen erstellt, um bei gewissen Ereignissen, bestimmte Reaktionen hervorzurufen. Dabei gibt es eine für richtige Antworten:
