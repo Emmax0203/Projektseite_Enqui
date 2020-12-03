@@ -81,7 +81,7 @@ Das Thema unseres Quiz ist Englisch für Anfänger. Somit sind die Fragen einfac
 
 ## Spielende<a name="Spielende"></a>
 Das Spiel endet, wenn der Spieler alle zehn Fragen des Quiz beantwortet hat, unabhängig von dem derzeitigen Punktestand. Durch den Punktestand wird lediglich entschieden, auf welchen der beiden Endscreens der Spieler am Ende weitergeleitet wird. 
-Dazu gibt es eine endGame-Funktion, die mithilfe der if-else-Schleife von AppLab bestimmt, welcher der beiden Screens am Ende des Quiz angezeigt werden soll. In dieser ist festgelegt, dass, wenn (if) die Anzahl unter sechs Punkten ist, der negative Endscreen angezeigt wird und ansonsten (else) der positive Screen angezeigt wird. Auf den letzten beiden Screens (Endscreens) kann man außerdem das Quiz restarten und von vorne beginnen. 
+Dazu gibt es eine endGame-Funktion, die mithilfe der if-else-Schleife von AppLab bestimmt, welcher der beiden Screens am Ende des Quiz angezeigt werden soll. In dieser ist festgelegt, dass, wenn (if) die Anzahl unter sechs Punkten ist, der negative Endscreen angezeigt wird und ansonsten (else) der positive Screen angezeigt wird. 
 
 https://github.com/Emmax0203/Projektseite---Enqui/blob/main/Ende.png
 
