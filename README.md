@@ -49,29 +49,10 @@ negativer Endscreen: https://github.com/Emmax0203/Projektseite---Enqui/blob/main
 ## Funktionen<a name="Funktionen"></a>
 Zur Vereinfachung und Verkürzung unseres Codes haben wir einige allgemeine Funktionen erstellt, um bei gewissen Ereignissen, bestimmte Reaktionen hervorzurufen. Dabei gibt es eine für richtige Antworten:
 
-function right() {
- playSound("sound://category_achievements/lighthearted_bonus_objective_1.mp3", false);          bestimmt den Sound, der bei richtigen Antworten gespielt wird
-  Anzahl = Anzahl + 1;                                                                          addiert die Punkte, bei richtiger Antwort
-  setText("Punktetafel", "Punkte = " + Anzahl);                                                 zeigt den neuen Punktestand an
-  }
-  
-  und eine für die falschen Antworten:
-  
-  function wrong() {
-  playSound("wrong.mp3", false);
-  Anzahl = Anzahl - 1;
-  setText("Punktetafel", "Punkte = " + Anzahl);
-  }
-  
-  Außerdem gibt es eine Funktion für die Endscreens:
-  
-function endGame() {
-  if (Anzahl < 6) {                                                                             beschreibt die Weiterleitung zum negativen Screen
-    setScreen("screen11");
-  } else {                                                                                      beschreibt die Weiterleitung zum positiven Screen
-    setScreen("screen12");
-  }
-}
+https://github.com/Emmax0203/Projektseite---Enqui/blob/main/right.png
+
+Eine für falsche Antworten:
+
 
 Zusätzlich gibt es ein funktionierendes Scoreboard, das durch die Variable "Anzahl" festgelegt und verändert wird. Dieses taucht auf allen Screens auf und zeigt den momentanen Punktestand an. 
 
