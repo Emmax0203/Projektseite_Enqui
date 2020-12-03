@@ -63,6 +63,10 @@ Und eine Endfunktion (siehe Spielende)
 
 Zusätzlich gibt es ein funktionierendes Scoreboard, das durch die Variable "Anzahl" festgelegt und verändert wird. Dieses taucht auf allen Screens auf und zeigt den momentanen Punktestand an. 
 
+## Funktionen für die Fragen<a name="Fragen"></a>
+
+Beispiel Fragentyp1: 
+
 ## Buttons<a name="Buttons"></a>
 
 Bei unserem Quiz haben wir Buttons verwendet, mit welchen man zu dem nächsten Screen gelangt und Events, wie Punkte und Sounds auslöst. Dabei gibt es die Buttons A, B und C, denen dann diese verschiedenen Funktionen (wrong, right) zugeordnet sind. Des Weiteren haben wir eine interaktive Seite (Startseite) erstellt, bei der man durch klicken auf einen beliebigen Punkt der Seite auf den ersten Screen gelangt.  
