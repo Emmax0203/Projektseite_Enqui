@@ -10,6 +10,8 @@
 
 [4. Funktionen](#Funktionen)
 
+[4.1. Funktionen der Fragen](#Fragen)
+
 [5. Buttons](#Buttons)
 
 [6. Inhalt des Quiz](#Inhalt)
@@ -63,11 +65,11 @@ Und eine Endfunktion (siehe Spielende)
 
 Zusätzlich gibt es ein funktionierendes Scoreboard, das durch die Variable "Anzahl" festgelegt und verändert wird. Dieses taucht auf allen Screens auf und zeigt den momentanen Punktestand an. 
 
-## Funktionen für die Fragen<a name="Fragen"></a>
+## Funktionen der Fragen<a name="Fragen"></a>
 
 Beispiel Fragentyp1: https://github.com/Emmax0203/Projektseite---Enqui/blob/main/Frage1.png
 
-Beispiel Fragentyp3: 
+Beispiel Fragentyp3: https://github.com/Emmax0203/Projektseite---Enqui/blob/main/Frage8.png
 
 ## Buttons<a name="Buttons"></a>
 
